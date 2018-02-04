@@ -4,6 +4,7 @@ double ave(double a[], int);//Ã†Â½Â¾Ã¹
 double variance(double a[], int);//Â·Â½Â²Ã®Â£Â» 
 int main()
 {
+	//ÌïÀ×µçÄÔÌá½»
 	int i, j,k;
 	k = 0;
 	int iArray[2][3] =
