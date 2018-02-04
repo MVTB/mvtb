@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
-double ave(double a[], int);//ƽ��  
-double variance(double a[], int);//��� 
+double ave(double a[], int);//Æ½¾ù  
+double variance(double a[], int);//·½²î£» 
 int main()
 {
+	//电脑端
 	int i, j,k;
 	k = 0;
 	int iArray[2][3] =
@@ -24,7 +25,7 @@ int main()
 			k++;
 		}
 	}
-	//����б��
+	//¼ÆËãÐ±ÂÊ
 	//double a = (iArray[1][2] - iArray[1][0]) / (iArray[0][2] - iArray[0][0]);
 	//double b = (iArray[1][2] - iArray[1][1]) / (iArray[0][2] - iArray[0][1]);	
 	//cout << a<<endl<<b;
