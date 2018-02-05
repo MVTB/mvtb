@@ -4,7 +4,7 @@ double ave(double a[], int);//脝陆戮霉
 double variance(double a[], int);//路陆虏卯拢禄 
 int main()
 {
-	//田雷电脑提交
+	//田雷电脑提交0205
 	int i, j,k;
 	k = 0;
 	int iArray[2][3] =
